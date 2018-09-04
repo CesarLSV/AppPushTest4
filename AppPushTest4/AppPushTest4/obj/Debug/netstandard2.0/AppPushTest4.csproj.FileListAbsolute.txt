@@ -1,0 +1,9 @@
+Z:\Proyectos_2018\Movil\App\AppPushTest4\AppPushTest4\AppPushTest4\obj\Debug\netstandard2.0\AppPushTest4.csproj.CoreCompileInputs.cache
+Z:\Proyectos_2018\Movil\App\AppPushTest4\AppPushTest4\AppPushTest4\obj\Debug\netstandard2.0\AppPushTest4.AssemblyInfoInputs.cache
+Z:\Proyectos_2018\Movil\App\AppPushTest4\AppPushTest4\AppPushTest4\obj\Debug\netstandard2.0\AppPushTest4.AssemblyInfo.cs
+Z:\Proyectos_2018\Movil\App\AppPushTest4\AppPushTest4\AppPushTest4\obj\Debug\netstandard2.0\AppPushTest4.dll
+Z:\Proyectos_2018\Movil\App\AppPushTest4\AppPushTest4\AppPushTest4\obj\Debug\netstandard2.0\AppPushTest4.pdb
+Z:\Proyectos_2018\Movil\App\AppPushTest4\AppPushTest4\AppPushTest4\bin\Debug\netstandard2.0\AppPushTest4.deps.json
+Z:\Proyectos_2018\Movil\App\AppPushTest4\AppPushTest4\AppPushTest4\bin\Debug\netstandard2.0\AppPushTest4.dll
+Z:\Proyectos_2018\Movil\App\AppPushTest4\AppPushTest4\AppPushTest4\bin\Debug\netstandard2.0\AppPushTest4.pdb
+Z:\Proyectos_2018\Movil\App\AppPushTest4\AppPushTest4\AppPushTest4\obj\Debug\netstandard2.0\AppPushTest4.csprojAssemblyReference.cache
